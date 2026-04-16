@@ -29,8 +29,7 @@
 ---
 
 📫 Connect with Me
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: your-sam.mou0137@gmail.com  
 
 ---
 
