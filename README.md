@@ -1,29 +1,35 @@
 # Sanjida Akter Mou
-**Computer Science & Engineering Student | Aspiring Software Engineer**
+**Computer Science & Engineering Student | Full-Stack & Android Developer**
 
-A dedicated CSE student at the **Bangladesh Army University of Science and Technology** with a focus on building robust software solutions. I specialize in backend logic with C++ and Java, while continuously exploring modern development frameworks.
+A results-driven CSE student at the **Bangladesh Army University of Science and Technology**. I bridge the gap between backend logic and user-centric applications, with experience ranging from Java desktop systems to PHP-based web environments and native Android development.
 
 ---
 
-### 💻 Technical Stack
+### 🛠 Technical Proficiency
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) |
-| **Web Basics** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| **Development** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 🚀 Strategic Objectives
+### 🚀 Featured Projects
 
-* **Algorithmic Mastery:** Actively solving problems to strengthen core data structures and algorithm knowledge.
-* **Open Source Contribution:** Seeking opportunities to contribute to meaningful community-driven software.
-* **Full-Stack Exploration:** Transitioning from core programming to building scalable, real-world web applications.
+#### 📱 Android Application (In Progress)
+*Developed using **Android Studio**, focusing on modern UI and efficient mobile performance.*
+
+#### 🌐 Web-Based Management System
+*A full-stack web application built with **PHP** and **MySQL** for robust database management.*
+* **Key Features:** CRUD operations, database normalization, and secure user authentication.
+
+#### 🖥 Java Desktop Application
+*A standalone software solution utilizing **Java** to handle complex logic and data processing.*
 
 ---
 
-### 📊 Professional Metrics
+### 📊 Professional Insights
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanjida-Mou&show_icons=true&theme=radical&hide_border=true" alt="Sanjida's Stats" width="400" />
@@ -35,10 +41,9 @@ A dedicated CSE student at the **Bangladesh Army University of Science and Techn
 ### 📬 Let's Connect
 
 * **Email:** [sm.mou0137@gmail.com](mailto:sm.mou0137@gmail.com)
-* **LinkedIn:** [Your Profile Link Here]
-* **Portfolio:** [Your Portfolio Link Here]
+
 
 ---
 <p align="center">
-  <i>"Committed to writing clean, efficient, and impactful code."</i>
+  <i>"Turning complex problems into elegant, functional code."</i>
 </p>
